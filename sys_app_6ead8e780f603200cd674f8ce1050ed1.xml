@@ -8,14 +8,14 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>NeedIt</name>
+        <name>NeedIt2</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_58872_needit</scope>
+        <scope>x_58872_NeedIt2</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
-        <source>x_58872_needit</source>
+        <source>x_58872_NeedIt2</source>
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
